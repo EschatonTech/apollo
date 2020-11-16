@@ -76,3 +76,6 @@ docs/demo_guide/*.record
 
 # Flamegraph files
 tools/FlameGraph
+
+# Mac Things
+*.DS_Store
